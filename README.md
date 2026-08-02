@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  <b>Software Engineering Student | Scout Leader @ Kegalle District | Tech Explorer</b>
+  <b>Software Engineering Student | Tech Explorer</b>
 </p>
 
 <p align="center">
